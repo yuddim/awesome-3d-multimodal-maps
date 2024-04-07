@@ -2,7 +2,7 @@
 
 Here we demonstrate neural network methods for 3D multimodal map reconstruction and their usage for robot navigation and control
 
-We propose following 3D multimodal map reconstruction methods:
+We propose following taxonomy of 3D multimodal map reconstruction methods:
 
 ![Taxonomy](https://github.com/yuddim/awesome-3d-multimodal-maps/blob/main/assets/mm-taxonomy.png)
 
@@ -12,8 +12,7 @@ We propose following 3D multimodal map reconstruction methods:
 
 Rozenberszki, D., Litany, O., & Dai, A. (2022, October). Language-grounded indoor 3d semantic segmentation in the wild. In ECCV (pp. 125-141). (Technical University of Munich, NVIDIA) [(paper)](https://arxiv.org/abs/2204.07761) | [(code)](https://github.com/RozDavid/LanguageGroundedSemseg) | [(project)](https://rozdavid.github.io/scannet200) | [(benchmark)](http://kaldir.vc.in.tum.de/scannet_benchmark/) | [(video)](https://www.youtube.com/watch?v=Cu-zW1oXrvU)
 
-Takmaz, A., Fedele, E., Sumner, R. W., Pollefeys, M., Tombari, F., & Engelmann, F. (2023). OpenMask3D: Open-Vocabulary 3D Instance Segmentation. arXiv preprint arXiv:2306.13631.
-(ETH Zurich, ETH AI Center, Google Zurich )
+Takmaz, A., Fedele, E., Sumner, R. W., Pollefeys, M., Tombari, F., & Engelmann, F. (2023). OpenMask3D: Open-Vocabulary 3D Instance Segmentation. arXiv preprint arXiv:2306.13631. (ETH Zurich, ETH AI Center, Google Zurich )
 
 Peng, Songyou, et al. "Openscene: 3d scene understanding with open vocabularies." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (Google Research, ETH Zurich, MPI for Intelligent Systems, Waymo LLC, Simon Fraser University)
 
