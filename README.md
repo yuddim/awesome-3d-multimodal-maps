@@ -4,7 +4,7 @@ Here we demonstrate neural network methods for 3D multimodal map reconstruction 
 
 We propose following 3D multimodal map reconstruction methods:
 
-![Taxonomy](https://github.com/yuddim/awesome-3d-multimodal-maps/assets/mm-taxonomy.png)
+![Taxonomy](https://github.com/yuddim/awesome-3d-multimodal-maps/blob/main/assets/mm-taxonomy.png)
 
 # Dense multimodal map reconstruction methods
 
