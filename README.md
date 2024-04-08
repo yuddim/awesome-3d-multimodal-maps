@@ -58,11 +58,11 @@ Hughes, N., Chang, Y., Hu, S., Talak, R., Abdulhai, R., Strader, J., & Carlone, 
 
 ## Ontology-based
 
-Strader, J., Hughes, N., Chen, W., Speranzon, A., & Carlone, L. (2023). Indoor and Outdoor 3D Scene Graph Generation via Language-Enabled Spatial Ontologies. arXiv preprint arXiv:2312.11713. [(paper)](https://arxiv.org/abs/2312.11713) 
+Strader, J., Hughes, N., Chen, W., Speranzon, A., & Carlone, L. (2023). Indoor and Outdoor 3D Scene Graph Generation via Language-Enabled Spatial Ontologies. arXiv preprint arXiv:2312.11713. (Massachusetts Institute of Technology, University of California, Lockheed Martin) [(paper)](https://arxiv.org/abs/2312.11713) 
 
-Qiu, Y., & Christensen, H. I. (2023, August). 3d scene graph prediction on point clouds using knowledge graphs. In 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE) (pp. 1-7). IEEE. [(paper)](https://arxiv.org/abs/2308.06719) 
+Qiu, Y., & Christensen, H. I. (2023, August). 3d scene graph prediction on point clouds using knowledge graphs. In 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE) (pp. 1-7). IEEE. (University of California San Diego) [(paper)](https://arxiv.org/abs/2308.06719) 
 
-Zhang, S., Hao, A., & Qin, H. (2021). Knowledge-inspired 3d scene graph prediction in point cloud. Advances in Neural Information Processing Systems, 34, 18620-18632. [(paper)](https://proceedings.neurips.cc/paper/2021/hash/9a555403384fc12f931656dea910e334-Abstract.html)
+Zhang, S., Hao, A., & Qin, H. (2021). Knowledge-inspired 3d scene graph prediction in point cloud. Advances in Neural Information Processing Systems, 34, 18620-18632. (Beihang University, Peng Cheng Laboratory, Stony Brook University (SUNY)) [(paper)](https://proceedings.neurips.cc/paper/2021/hash/9a555403384fc12f931656dea910e334-Abstract.html)
 
 
 
