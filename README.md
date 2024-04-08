@@ -30,31 +30,31 @@ Huang, Chenguang, et al. "Visual language maps for robot navigation." 2023 IEEE 
 
 Kerr, J., Kim, C. M., Goldberg, K., Kanazawa, A., & Tancik, M. (2023). Lerf: Language embedded radiance fields. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 19729-19739). (UC Berkeley)[(paper)](https://arxiv.org/abs/2303.09553) | [(code)](https://github.com/kerrj/lerf) | [(project)](https://www.lerf.io/) | [(dataset)](https://drive.google.com/drive/folders/1vh0mSl7v29yaGsxleadcj-LCZOE_WEWB?usp=sharing) 
 
-Liu, K., Zhan, F., Zhang, J., Xu, M., Yu, Y., Saddik, A. E., ... & Lu, S. (2023). Weakly Supervised 3D Open-vocabulary Segmentation. arXiv preprint arXiv:2305.14093. NeurIPS 2023. [(paper)](https://arxiv.org/abs/2305.14093) | [(code)](https://github.com/Kunhao-Liu/3D-OVS) | [(dataset)](https://drive.google.com/drive/folders/1kdV14Gu5nZX6WOPbccG7t7obP_aXkOuC?usp=sharing) 
+Liu, K., Zhan, F., Zhang, J., Xu, M., Yu, Y., Saddik, A. E., ... & Lu, S. (2023). Weakly Supervised 3D Open-vocabulary Segmentation. arXiv preprint arXiv:2305.14093. NeurIPS 2023. (Nanyang Technological University, Max Planck Institute for Informatics, University of Ottawa, Carnegie Mellon University, MBZUAI) [(paper)](https://arxiv.org/abs/2305.14093) | [(code)](https://github.com/Kunhao-Liu/3D-OVS) | [(dataset)](https://drive.google.com/drive/folders/1kdV14Gu5nZX6WOPbccG7t7obP_aXkOuC?usp=sharing) 
 
 ## SDF-based
 
-Yamazaki, Kashu, et al. "Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation." arXiv preprint arXiv:2310.03923 (2023). ICRA 2024 [(paper)](https://arxiv.org/abs/2310.03923) | [(code)](https://github.com/UARK-AICV/OpenFusion) | [(project)](https://uark-aicv.github.io/OpenFusion/) 
+Yamazaki, Kashu, et al. Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation. arXiv preprint arXiv:2310.03923 (2023). ICRA 2024 (University of Arkansas, West Virginia University, University of Liverpool) [(paper)](https://arxiv.org/abs/2310.03923) | [(code)](https://github.com/UARK-AICV/OpenFusion) | [(project)](https://uark-aicv.github.io/OpenFusion/) 
 
 # Sparse multimodal map reconstruction methods
 
 ## Object-based
 
-Najibi, Mahyar, et al. "Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023. [(paper)](https://arxiv.org/abs/2309.14491) 
+Najibi, Mahyar, et al. "Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023. (Waymo LLC) [(paper)](https://arxiv.org/abs/2309.14491) 
 
 ## Object-based with relations (knowledge graphs)
 
 Gu, Qiao, et al. "ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning." arXiv preprint arXiv:2309.16650, 2023 (MIT, Universite de Montreal, University of Toronto, IIIT Hyderabad, JHU APL, JHU, UMass Amherst, DEVCOM Army Research Laboratory). [(paper)](http://arxiv.org/abs/2309.16650) | [(code)](https://github.com/concept-graphs/concept-graphs) | [(project)](https://concept-graphs.github.io/) | [(video)](https://youtu.be/mRhNkQwRYnc)
 
-Wang, Z., Cheng, B., Zhao, L., Xu, D., Tang, Y., & Sheng, L. (2023). VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [(paper)](https://arxiv.org/pdf/2303.14408.pdf) | [(code)](https://github.com/wz7in/CVPR2023-VLSAT) | [(model checkpoint)](https://drive.google.com/file/d/1_C-LXRlSobupApb-JsajKG5oxKnfKgdx/view?usp=sharing) 
+Wang, Z., Cheng, B., Zhao, L., Xu, D., Tang, Y., & Sheng, L. (2023). VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (School of Software, Beihang University, The University of Hong Kong, East China University of Science and Technology). [(paper)](https://arxiv.org/pdf/2303.14408.pdf) | [(code)](https://github.com/wz7in/CVPR2023-VLSAT) | [(model checkpoint)](https://drive.google.com/file/d/1_C-LXRlSobupApb-JsajKG5oxKnfKgdx/view?usp=sharing) 
 
-Chang, H., Boyalakuntla, K., Lu, S., Cai, S., Jing, E., Keskar, S., ... & Boularias, A. (2023). Context-aware entity grounding with open-vocabulary 3d scene graphs. arXiv preprint arXiv:2309.15940. CoRL '23 [(paper)](https://arxiv.org/abs/2309.15940) | [(code)](https://github.com/changhaonan/OVSG) | [(project)](https://ovsg-l.github.io/) | [(dataset)](https://doi.org/10.6084/m9.figshare.24307072.v1) 
+Chang, H., Boyalakuntla, K., Lu, S., Cai, S., Jing, E., Keskar, S., ... & Boularias, A. (2023). Context-aware entity grounding with open-vocabulary 3d scene graphs. arXiv preprint arXiv:2309.15940. CoRL '23 (Rutgers University-New Brunswick, Drexel University) [(paper)](https://arxiv.org/abs/2309.15940) | [(code)](https://github.com/changhaonan/OVSG) | [(project)](https://ovsg-l.github.io/) | [(dataset)](https://doi.org/10.6084/m9.figshare.24307072.v1) 
 
-Looper, S., Rodriguez-Puigvert, J., Siegwart, R., Cadena, C., & Schmid, L. (2023, May). 3d vsg: Long-term semantic scene change prediction through 3d variable scene graphs. In 2023 IEEE International Conference on Robotics and Automation (ICRA) (pp. 8179-8186). IEEE. [(paper)](https://arxiv.org/abs/2209.07896) | [(code)](https://github.com/ethz-asl/3d_vsg) 
+Looper, S., Rodriguez-Puigvert, J., Siegwart, R., Cadena, C., Schmid, L. (2023). 3d vsg: Long-term semantic scene change prediction through 3d variable scene graphs. In 2023 IEEE International Conference on Robotics and Automation (ICRA) (pp. 8179-8186). IEEE. (ETH Zurich, Universidad de Zaragoza, Massachusetts Institute of Technology) [(paper)](https://arxiv.org/abs/2209.07896) | [(code)](https://github.com/ethz-asl/3d_vsg) 
 
 ## Object-based with hierarchy
 
-Hughes, N., Chang, Y., Hu, S., Talak, R., Abdulhai, R., Strader, J., & Carlone, L. (2023). Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems. arXiv preprint arXiv:2305.07154. [(paper)](https://arxiv.org/abs/2305.07154) | [(code)](https://github.com/MIT-SPARK/Hydra) 
+Hughes, N., Chang, Y., Hu, S., Talak, R., Abdulhai, R., Strader, J., & Carlone, L. (2023). Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems. arXiv preprint arXiv:2305.07154. (Massachusetts Institute of Technology) [(paper)](https://arxiv.org/abs/2305.07154) | [(code)](https://github.com/MIT-SPARK/Hydra) 
 
 ## Ontology-based
 
