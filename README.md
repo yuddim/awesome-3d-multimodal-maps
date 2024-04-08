@@ -54,6 +54,8 @@ Looper, S., Rodriguez-Puigvert, J., Siegwart, R., Cadena, C., Schmid, L. (2023).
 
 ## Object-based with hierarchy
 
+Werby, A., Huang, C., Büchner, M., Valada, A., & Burgard, W. (2024). Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation. arXiv preprint arXiv:2403.17846. (University of Freiburg, University of Technology Nuremberg) [(paper)](https://arxiv.org/abs/2403.17846) | [(project)](https://hovsg.github.io/) 
+
 Hughes, N., Chang, Y., Hu, S., Talak, R., Abdulhai, R., Strader, J., & Carlone, L. (2023). Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems. arXiv preprint arXiv:2305.07154. (Massachusetts Institute of Technology) [(paper)](https://arxiv.org/abs/2305.07154) | [(code)](https://github.com/MIT-SPARK/Hydra) 
 
 ## Ontology-based
