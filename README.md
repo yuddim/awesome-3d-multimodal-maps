@@ -18,7 +18,7 @@ Peng, Songyou, et al. **Openscene: 3d scene understanding with open vocabularies
 
 Ding, Runyu, et al. **PLA: Language-Driven Open-Vocabulary 3D Scene Understanding.** Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (The University of Hong Kong, ByteDance) [(paper)](https://arxiv.org/abs/2211.16312) | [(code)](https://github.com/CVMI-Lab/PLA) | [(project)](https://dingry.github.io/projects/PLA) 
 
-Huang, Chenguang, et al. **Audio visual language maps for robot navigation. **arXiv preprint arXiv:2303.07522, 2023. (Freiburg University, Google Research, University of Technology Nuremberg). ISER 2023 [(paper)](https://arxiv.org/pdf/2303.07522.pdf) | [(code)](https://github.com/avlmaps/AVLMaps) | [(project)](https://avlmaps.github.io/) | [(colab)](https://colab.research.google.com/drive/1gdtLvg_Fbl16N3ITp5FsU9ZAG6HmspVb?usp=sharing) | [(video)](https://avlmaps.github.io/)
+Huang, Chenguang, et al. **Audio visual language maps for robot navigation.** arXiv preprint arXiv:2303.07522, 2023. (Freiburg University, Google Research, University of Technology Nuremberg). ISER 2023 [(paper)](https://arxiv.org/pdf/2303.07522.pdf) | [(code)](https://github.com/avlmaps/AVLMaps) | [(project)](https://avlmaps.github.io/) | [(colab)](https://colab.research.google.com/drive/1gdtLvg_Fbl16N3ITp5FsU9ZAG6HmspVb?usp=sharing) | [(video)](https://avlmaps.github.io/)
 
 Jatavallabhula, Krishna Murthy, et al. **Conceptfusion: Open-set multimodal 3d mapping.** arXiv preprint arXiv:2302.07241, 2023. (MIT, Universite de Montreal, University of Toronto, IIIT Hyderabad, CMU, Amazon, Matician, DEVCOM Army Research Laboratory) [(paper)](https://arxiv.org/abs/2302.07241) | [(code)](https://github.com/concept-fusion/concept-fusion) | [(project)](https://concept-fusion.github.io/) | [(video)](https://www.youtube.com/watch?v=rkXgws8fiDs)
 
@@ -30,7 +30,7 @@ Huang, Chenguang, et al. **Visual language maps for robot navigation.** 2023 IEE
 
 Kerr, J., Kim, C. M., Goldberg, K., Kanazawa, A., & Tancik, M. (2023). **Lerf: Language embedded radiance fields.** In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 19729-19739). (UC Berkeley)[(paper)](https://arxiv.org/abs/2303.09553) | [(code)](https://github.com/kerrj/lerf) | [(project)](https://www.lerf.io/) | [(dataset)](https://drive.google.com/drive/folders/1vh0mSl7v29yaGsxleadcj-LCZOE_WEWB?usp=sharing) 
 
-Liu, K., Zhan, F., Zhang, J., Xu, M., Yu, Y., Saddik, A. E., ... & Lu, S. (2023).** Weakly Supervised 3D Open-vocabulary Segmentation.** arXiv preprint arXiv:2305.14093. NeurIPS 2023. (Nanyang Technological University, Max Planck Institute for Informatics, University of Ottawa, Carnegie Mellon University, MBZUAI) [(paper)](https://arxiv.org/abs/2305.14093) | [(code)](https://github.com/Kunhao-Liu/3D-OVS) | [(dataset)](https://drive.google.com/drive/folders/1kdV14Gu5nZX6WOPbccG7t7obP_aXkOuC?usp=sharing) 
+Liu, K., Zhan, F., Zhang, J., Xu, M., Yu, Y., Saddik, A. E., ... & Lu, S. (2023). **Weakly Supervised 3D Open-vocabulary Segmentation.** arXiv preprint arXiv:2305.14093. NeurIPS 2023. (Nanyang Technological University, Max Planck Institute for Informatics, University of Ottawa, Carnegie Mellon University, MBZUAI) [(paper)](https://arxiv.org/abs/2305.14093) | [(code)](https://github.com/Kunhao-Liu/3D-OVS) | [(dataset)](https://drive.google.com/drive/folders/1kdV14Gu5nZX6WOPbccG7t7obP_aXkOuC?usp=sharing) 
 
 ## SDF-based
 
