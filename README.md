@@ -10,9 +10,7 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 
 ## Point-based
 
-(2022). **Language-grounded indoor 3d semantic segmentation in the wild.** In ECCV (pp. 125-141). Rozenberszki, D., Litany, O., & Dai, A. (Technical University of Munich, NVIDIA). [(paper)](https://arxiv.org/abs/2204.07761) | [(code)](https://github.com/RozDavid/LanguageGroundedSemseg) | [(project)](https://rozdavid.github.io/scannet200) | [(benchmark)](http://kaldir.vc.in.tum.de/scannet_benchmark/) | [(video)](https://www.youtube.com/watch?v=Cu-zW1oXrvU)
-
-(2023). **OpenMask3D: Open-Vocabulary 3D Instance Segmentation.** arXiv preprint arXiv:2306.13631. NeurIPS 2023. Takmaz, A., Fedele, E., Sumner, R. W., Pollefeys, M., Tombari, F., & Engelmann, F. (ETH Zurich, ETH AI Center, Google Zurich )  [(paper)](https://arxiv.org/abs/2306.13631) | [(code)](https://github.com/OpenMask3D/openmask3d) | [(project)](https://openmask3d.github.io/) 
+(2023) **OpenMask3D: Open-Vocabulary 3D Instance Segmentation.** arXiv preprint arXiv:2306.13631. NeurIPS 2023. Takmaz, A., Fedele, E., Sumner, R. W., Pollefeys, M., Tombari, F., & Engelmann, F. (ETH Zurich, ETH AI Center, Google Zurich )  [(paper)](https://arxiv.org/abs/2306.13631) | [(code)](https://github.com/OpenMask3D/openmask3d) | [(project)](https://openmask3d.github.io/) 
 
 (2023) **Openscene: 3d scene understanding with open vocabularies.** Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. Peng, Songyou, et al. (Google Research, ETH Zurich, MPI for Intelligent Systems, Waymo LLC, Simon Fraser University) [(paper)](https://arxiv.org/abs/2211.15654) | [(code)](https://github.com/pengsongyou/openscene) | [(project)](https://pengsongyou.github.io/openscene) | [(video)](https://youtu.be/jZxCLHyDJf8)
 
@@ -22,9 +20,11 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 
 (2023) **Conceptfusion: Open-set multimodal 3d mapping.** arXiv preprint arXiv:2302.07241, 2023. Jatavallabhula, Krishna Murthy, et al. (MIT, Universite de Montreal, University of Toronto, IIIT Hyderabad, CMU, Amazon, Matician, DEVCOM Army Research Laboratory) [(paper)](https://arxiv.org/abs/2302.07241) | [(code)](https://github.com/concept-fusion/concept-fusion) | [(project)](https://concept-fusion.github.io/) | [(video)](https://www.youtube.com/watch?v=rkXgws8fiDs)
 
+(2022) **Language-grounded indoor 3d semantic segmentation in the wild.** In ECCV (pp. 125-141). Rozenberszki, D., Litany, O., & Dai, A. (Technical University of Munich, NVIDIA). [(paper)](https://arxiv.org/abs/2204.07761) | [(code)](https://github.com/RozDavid/LanguageGroundedSemseg) | [(project)](https://rozdavid.github.io/scannet200) | [(benchmark)](http://kaldir.vc.in.tum.de/scannet_benchmark/) | [(video)](https://www.youtube.com/watch?v=Cu-zW1oXrvU)
+
 ## Voxel-based
 
-**Visual language maps for robot navigation.** 2023 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2023. Huang, Chenguang, et al. (Freiburg University, Google Research, University of Technology Nuremberg) [(paper)](https://arxiv.org/pdf/2210.05714.pdf) | [(code)](https://github.com/vlmaps/vlmaps.git) | [(project)](https://vlmaps.github.io/) | [(colab)](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing) | [(video)](https://vlmaps.github.io/)
+(2023) **Visual language maps for robot navigation.** 2023 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2023. Huang, Chenguang, et al. (Freiburg University, Google Research, University of Technology Nuremberg) [(paper)](https://arxiv.org/pdf/2210.05714.pdf) | [(code)](https://github.com/vlmaps/vlmaps.git) | [(project)](https://vlmaps.github.io/) | [(colab)](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing) | [(video)](https://vlmaps.github.io/)
 
 ## NeRF-based
 
@@ -34,7 +34,7 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 
 ## SDF-based
 
-(2024) **Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation.** arXiv preprint arXiv:2310.03923 (2023). ICRA 2024. Yamazaki, Kashu, et al. (University of Arkansas, West Virginia University, University of Liverpool) [(paper)](https://arxiv.org/abs/2310.03923) | [(code)](https://github.com/UARK-AICV/OpenFusion) | [(project)](https://uark-aicv.github.io/OpenFusion/) 
+(2024) **Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation.** arXiv preprint arXiv:2310.03923. ICRA 2024. Yamazaki, Kashu, et al. (University of Arkansas, West Virginia University, University of Liverpool) [(paper)](https://arxiv.org/abs/2310.03923) | [(code)](https://github.com/UARK-AICV/OpenFusion) | [(project)](https://uark-aicv.github.io/OpenFusion/) 
 
 # Sparse multimodal map reconstruction methods
 
