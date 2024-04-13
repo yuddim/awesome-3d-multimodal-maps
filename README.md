@@ -24,9 +24,13 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 
 ## Voxel-based
 
+(2024) Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning. arXiv preprint arXiv:2403.11401. Fu, R., Liu, J., Chen, X., Nie, Y., & Xiong, W. (Brown University, ETH Zurich, Meta AI)  [(paper)](https://arxiv.org/abs/2403.11401) | [(code)](https://github.com/vlmaps/vlmaps.git) | [(project)](https://vlmaps.github.io/) | [(colab)](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing) | [(video)](https://vlmaps.github.io/)
+
 (2023) **Visual language maps for robot navigation.** 2023 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2023. Huang, Chenguang, et al. (Freiburg University, Google Research, University of Technology Nuremberg) [(paper)](https://arxiv.org/pdf/2210.05714.pdf) | [(code)](https://github.com/vlmaps/vlmaps.git) | [(project)](https://vlmaps.github.io/) | [(colab)](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing) | [(video)](https://vlmaps.github.io/)
 
 ## NeRF-based
+
+(2023). **3d-llm: Injecting the 3d world into large language models.** Advances in Neural Information Processing Systems, 36, 20482-20494. Hong, Y., Zhen, H., Chen, P., Zheng, S., Du, Y., Chen, Z., & Gan, C. (UCLA, SJTU, SCUT, UIUC, MIT, MIT-IBM Watson AI Lab, Umass Amherst) [(paper)](https://arxiv.org/abs/2307.12981) | [(code)](https://github.com/UMass-Foundation-Model/3D-LLM) | [(project)](https://vis-www.cs.umass.edu/3dllm/) 
 
 (2023) **Lerf: Language embedded radiance fields.** In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 19729-19739). Kerr, J., Kim, C. M., Goldberg, K., Kanazawa, A., & Tancik, M. (UC Berkeley)[(paper)](https://arxiv.org/abs/2303.09553) | [(code)](https://github.com/kerrj/lerf) | [(project)](https://www.lerf.io/) | [(dataset)](https://drive.google.com/drive/folders/1vh0mSl7v29yaGsxleadcj-LCZOE_WEWB?usp=sharing) 
 
@@ -44,6 +48,10 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 
 ## Object-based with relations (knowledge graphs)
 
+(2024) **Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships.** arXiv preprint arXiv:2402.12259. CVPR 2024. Koch, S., Vaskevicius, N., Colosi, M., Hermosilla, P., & Ropinski, T. (Bosch Center for Artificial Intelligence, Robert Bosch Corporate Research, University of Ulm, TU Vienna) [(paper)](https://arxiv.org/abs/2402.12259) | [(code is coming soon)]() | [(project)](https://kochsebastian.com/open3dsg) 
+
+(2024) **EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI.** arXiv preprint arXiv:2312.16170. CVPR 2024. Wang, T., Mao, X., Zhu, C., Xu, R., Lyu, R., Li, P., ... & Pang, J. (Shanghai AI Laboratory, Shanghai Jiao Tong University, The University of Hong Kong, The Chinese University of Hong Kong, Tsinghua University) [(paper)](https://arxiv.org/abs/2312.16170) | [(code and dataset)](https://github.com/OpenRobotLab/EmbodiedScan) | [(project)](https://tai-wang.github.io/embodiedscan/) 
+
 (2023) **ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning.** arXiv preprint arXiv:2309.16650, 2023. Gu, Qiao, et al. (MIT, Universite de Montreal, University of Toronto, IIIT Hyderabad, JHU APL, JHU, UMass Amherst, DEVCOM Army Research Laboratory). [(paper)](http://arxiv.org/abs/2309.16650) | [(code)](https://github.com/concept-graphs/concept-graphs) | [(project)](https://concept-graphs.github.io/) | [(video)](https://youtu.be/mRhNkQwRYnc)
 
 (2023) **VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud.** In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (School of Software, Beihang University, The University of Hong Kong, East China University of Science and Technology). Wang, Z., Cheng, B., Zhao, L., Xu, D., Tang, Y., & Sheng, L. [(paper)](https://arxiv.org/pdf/2303.14408.pdf) | [(code)](https://github.com/wz7in/CVPR2023-VLSAT) | [(model checkpoint)](https://drive.google.com/file/d/1_C-LXRlSobupApb-JsajKG5oxKnfKgdx/view?usp=sharing) 
@@ -53,6 +61,8 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 (2023) **3d vsg: Long-term semantic scene change prediction through 3d variable scene graphs.** In 2023 IEEE International Conference on Robotics and Automation (ICRA) (pp. 8179-8186). IEEE. Looper, S., Rodriguez-Puigvert, J., Siegwart, R., Cadena, C., Schmid, L. (ETH Zurich, Universidad de Zaragoza, Massachusetts Institute of Technology) [(paper)](https://arxiv.org/abs/2209.07896) | [(code)](https://github.com/ethz-asl/3d_vsg) 
 
 ## Object-based with hierarchy
+
+(2024) **Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation.** arXiv preprint arXiv:2403.08605. Honerkamp, D., Buchner, M., Despinoy, F., Welschehold, T., & Valada, A. (University of Freiburg, Toyota Motor Europe (TME)).  [(paper)](https://arxiv.org/abs/2403.08605) | [(code)](https://github.com/robot-learning-freiburg/MoMa-LLM) | [(project)](http://moma-llm.cs.uni-freiburg.de) 
 
 (2024) **Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation.** arXiv preprint arXiv:2403.17846. Werby, A., Huang, C., Büchner, M., Valada, A., & Burgard, W.  (University of Freiburg, University of Technology Nuremberg) [(paper)](https://arxiv.org/abs/2403.17846) | [(project)](https://hovsg.github.io/) 
 
