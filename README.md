@@ -24,7 +24,7 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 
 ## Voxel-based
 
-(2024) Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning. arXiv preprint arXiv:2403.11401. Fu, R., Liu, J., Chen, X., Nie, Y., & Xiong, W. (Brown University, ETH Zurich, Meta AI)  [(paper)](https://arxiv.org/abs/2403.11401) | [(code)](https://github.com/vlmaps/vlmaps.git) | [(project)](https://vlmaps.github.io/) | [(colab)](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing) | [(video)](https://vlmaps.github.io/)
+(2024) **Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning.** arXiv preprint arXiv:2403.11401. Fu, R., Liu, J., Chen, X., Nie, Y., & Xiong, W. (Brown University, ETH Zurich, Meta AI)  [(paper)](https://arxiv.org/abs/2403.11401) | [(code)](https://github.com/vlmaps/vlmaps.git) | [(project)](https://vlmaps.github.io/) | [(colab)](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing) | [(video)](https://vlmaps.github.io/)
 
 (2023) **Visual language maps for robot navigation.** 2023 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2023. Huang, Chenguang, et al. (Freiburg University, Google Research, University of Technology Nuremberg) [(paper)](https://arxiv.org/pdf/2210.05714.pdf) | [(code)](https://github.com/vlmaps/vlmaps.git) | [(project)](https://vlmaps.github.io/) | [(colab)](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing) | [(video)](https://vlmaps.github.io/)
 
