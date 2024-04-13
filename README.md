@@ -30,6 +30,8 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 
 ## NeRF-based
 
+(2024) **Llm-grounder: Open-vocabulary 3d visual grounding with large language model as an agent.** arXiv preprint arXiv:2309.12311. ICRA 2024. Yang, J., Chen, X., Qian, S., Madaan, N., Iyengar, M., Fouhey, D. F., & Chai, J. (University of Michigan, New York University) [(paper)](https://arxiv.org/abs/2309.12311) | [(code)](https://github.com/sled-group/chat-with-nerf) | [(project)](https://chat-with-nerf.github.io) | [(live demo)](http://sled-whistler.eecs.umich.edu:7777/) | [(video)](https://youtu.be/eO-Vaf-1R1s)
+
 (2023). **3d-llm: Injecting the 3d world into large language models.** Advances in Neural Information Processing Systems, 36, 20482-20494. Hong, Y., Zhen, H., Chen, P., Zheng, S., Du, Y., Chen, Z., & Gan, C. (UCLA, SJTU, SCUT, UIUC, MIT, MIT-IBM Watson AI Lab, Umass Amherst) [(paper)](https://arxiv.org/abs/2307.12981) | [(code)](https://github.com/UMass-Foundation-Model/3D-LLM) | [(project)](https://vis-www.cs.umass.edu/3dllm/) 
 
 (2023) **Lerf: Language embedded radiance fields.** In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 19729-19739). Kerr, J., Kim, C. M., Goldberg, K., Kanazawa, A., & Tancik, M. (UC Berkeley)[(paper)](https://arxiv.org/abs/2303.09553) | [(code)](https://github.com/kerrj/lerf) | [(project)](https://www.lerf.io/) | [(dataset)](https://drive.google.com/drive/folders/1vh0mSl7v29yaGsxleadcj-LCZOE_WEWB?usp=sharing) 
