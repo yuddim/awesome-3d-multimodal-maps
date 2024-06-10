@@ -1,6 +1,10 @@
 # Awesome-3D-Multimodal-Maps
 
-Here we demonstrate neural network methods for 3D multimodal map reconstruction and their usage for robot navigation and control
+Here we demonstrate neural network methods for 3D multimodal map reconstruction and their usage for object retrieval, robot navigation and control.
+
+Example of a 3D multimodal map with a scene graph representation. We can make text queries to it for 3D object retrieval:
+
+![Taxonomy](https://github.com/yuddim/awesome-3d-multimodal-maps/blob/main/assets/mmap_example.png)
 
 We propose following taxonomy of 3D multimodal map reconstruction methods:
 
