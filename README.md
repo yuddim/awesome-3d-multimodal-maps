@@ -46,6 +46,12 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 
 (2024) **Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation.** arXiv preprint arXiv:2310.03923. ICRA 2024. Yamazaki, Kashu, et al. (University of Arkansas, West Virginia University, University of Liverpool) [(paper)](https://arxiv.org/abs/2310.03923) | [(code)](https://github.com/UARK-AICV/OpenFusion) | [(project)](https://uark-aicv.github.io/OpenFusion/) 
 
+## Gaussian Splatting-based
+
+(2024) **OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding**. arXiv preprint arXiv:2406.02058. Wu, Y., Meng, J., Li, H., Wu, C., Shi, Y., Cheng, X., Zhao, C., Feng, H., Ding, E., Wang, J. and Zhang, J. (Peking University, Baidu VIS, Beihang University) [(paper)](https://arxiv.org/abs/2406.02058) | code (Coming soon) | [(project)](https://3d-aigc.github.io/OpenGaussian) 
+
+(2023) **LangSplat: 3D Language Gaussian Splatting.** arXiv preprint arXiv:2312.16084. CVPR2024 Highlight. Qin, M., Li, W., Zhou, J., Wang, H. and Pfister, H. (Tsinghua University, Harvard University) [(paper)](https://arxiv.org/pdf/2312.16084.pdf) | [(code)](https://github.com/minghanqin/LangSplat) | [(project)](https://langsplat.github.io) | [(video)](https://youtu.be/XMlyjsei-Es?si=3KceyF_89BXnfGyM)
+
 # Sparse multimodal map reconstruction methods
 
 ## Object-based
