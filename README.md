@@ -56,6 +56,12 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 
 ## Object-based
 
+(2024) **SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model.** arXiv preprint arXiv:2406.01584. Cheng, A.C., Yin, H., Fu, Y., Guo, Q., Yang, R., Kautz, J., Wang, X. and Liu, S. (UC San Diego, The University of Hong Kong, NVIDIA) [(paper)](https://arxiv.org/abs/2406.01584) | [(code and dataset are coming soon)]() | [(project)](https://www.anjiecheng.me/SpatialRGPT) 
+
+(2024) **Mapping the Unseen: Unified Promptable Panoptic Mapping with Dynamic Labeling using Foundation Models.** arXiv preprint arXiv:2405.02162. Mdfaa, M.A., Salameh, R., Zagoruyko, S. and Ferrer, G. (ScolTech) [(paper)](https://arxiv.org/abs/2405.02162) | [(code is coming soon)]() | [(project)](https://unified-promptable-panoptic-mapping.github.io)  
+
+(2024) **SUGAR: Pre-training 3D Visual Representations for Robotics.** arXiv preprint arXiv:2404.01491. S Chen, R Garcia, I Laptev, C Schmid  [(paper)](https://arxiv.org/abs/2404.01491) | [(code is coming soon)]() | [(project)](https://cshizhe.github.io/projects/robot_sugar.html) 
+
 (2023) **Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving.** Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023. Najibi, Mahyar, et al. (Waymo LLC) [(paper)](https://arxiv.org/abs/2309.14491) 
 
 ## Object-based with relations (knowledge graphs)
@@ -71,6 +77,8 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 (2023) **Context-aware entity grounding with open-vocabulary 3d scene graphs.** arXiv preprint arXiv:2309.15940. CoRL '23. Chang, H., Boyalakuntla, K., Lu, S., Cai, S., Jing, E., Keskar, S., ... & Boularias, A. (Rutgers University-New Brunswick, Drexel University) [(paper)](https://arxiv.org/abs/2309.15940) | [(code)](https://github.com/changhaonan/OVSG) | [(project)](https://ovsg-l.github.io/) | [(dataset)](https://doi.org/10.6084/m9.figshare.24307072.v1) 
 
 (2023) **3d vsg: Long-term semantic scene change prediction through 3d variable scene graphs.** In 2023 IEEE International Conference on Robotics and Automation (ICRA) (pp. 8179-8186). IEEE. Looper, S., Rodriguez-Puigvert, J., Siegwart, R., Cadena, C., Schmid, L. (ETH Zurich, Universidad de Zaragoza, Massachusetts Institute of Technology) [(paper)](https://arxiv.org/abs/2209.07896) | [(code)](https://github.com/ethz-asl/3d_vsg) 
+
+(2022) **Language conditioned spatial relation reasoning for 3d object grounding.** Advances in neural information processing systems 35, 20522-20535, 2022. S Chen, PL Guhur, M Tapaswi, C Schmid, I Laptev (Rutgers University-New Brunswick, Drexel University) [(paper)](https://arxiv.org/abs/2211.09646) | [(code)](https://github.com/cshizhe/vil3dref) | [(project)](https://cshizhe.github.io/projects/vil3dref.html) 
 
 ## Object-based with hierarchy
 
