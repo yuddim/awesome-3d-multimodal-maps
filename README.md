@@ -56,8 +56,6 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 
 ## Object-based
 
-(2024) **SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model.** arXiv preprint arXiv:2406.01584. Cheng, A.C., Yin, H., Fu, Y., Guo, Q., Yang, R., Kautz, J., Wang, X. and Liu, S. (UC San Diego, The University of Hong Kong, NVIDIA) [(paper)](https://arxiv.org/abs/2406.01584) | [(code and dataset are coming soon)]() | [(project)](https://www.anjiecheng.me/SpatialRGPT) 
-
 (2024) **Mapping the Unseen: Unified Promptable Panoptic Mapping with Dynamic Labeling using Foundation Models.** arXiv preprint arXiv:2405.02162. Mdfaa, M.A., Salameh, R., Zagoruyko, S. and Ferrer, G. (ScolTech) [(paper)](https://arxiv.org/abs/2405.02162) | [(code is coming soon)]() | [(project)](https://unified-promptable-panoptic-mapping.github.io)  
 
 (2024) **SUGAR: Pre-training 3D Visual Representations for Robotics.** arXiv preprint arXiv:2404.01491. S Chen, R Garcia, I Laptev, C Schmid  [(paper)](https://arxiv.org/abs/2404.01491) | [(code is coming soon)]() | [(project)](https://cshizhe.github.io/projects/robot_sugar.html) 
@@ -65,6 +63,8 @@ We propose following taxonomy of 3D multimodal map reconstruction methods:
 (2023) **Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving.** Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023. Najibi, Mahyar, et al. (Waymo LLC) [(paper)](https://arxiv.org/abs/2309.14491) 
 
 ## Object-based with relations (knowledge graphs)
+
+(2024) **SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model.** arXiv preprint arXiv:2406.01584. Cheng, A.C., Yin, H., Fu, Y., Guo, Q., Yang, R., Kautz, J., Wang, X. and Liu, S. (UC San Diego, The University of Hong Kong, NVIDIA) [(paper)](https://arxiv.org/abs/2406.01584) | [(code and dataset are coming soon)]() | [(project)](https://www.anjiecheng.me/SpatialRGPT) 
 
 (2024) **Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships.** arXiv preprint arXiv:2402.12259. CVPR 2024. Koch, S., Vaskevicius, N., Colosi, M., Hermosilla, P., & Ropinski, T. (Bosch Center for Artificial Intelligence, Robert Bosch Corporate Research, University of Ulm, TU Vienna) [(paper)](https://arxiv.org/abs/2402.12259) | [(code is coming soon)]() | [(project)](https://kochsebastian.com/open3dsg) 
 
